@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 node:19-bullseye-slim
+FROM node:alpine
 
 WORKDIR /app
 
